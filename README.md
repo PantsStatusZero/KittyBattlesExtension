@@ -1,6 +1,10 @@
 # 😺 Kitty Battles Extension 😺
 Extension for kittybattles.io
 
+<a href="https://ibb.co/fqh2d8"><img src="https://preview.ibb.co/d9OVWT/Capture.jpg" alt="Capture" border="0"></a><br />
+
+### Features
+* Increase bottom margin in Arena
 
 ### Installing
 • Requires [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) chrome extension or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) add-on   
